@@ -2,7 +2,7 @@
 //  Animations.swift
 //  iOS Assignment Totality Corp
 //
-//  Created by Nishay Kumar on 16/08/23.
+// 
 //
 
 import Foundation
