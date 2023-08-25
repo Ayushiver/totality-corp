@@ -2,7 +2,7 @@
 //  Color.swift
 //  iOS Assignment Totality Corp
 //
-//  Created by Nishay Kumar on 10/08/23.
+//
 //
 
 import Foundation
