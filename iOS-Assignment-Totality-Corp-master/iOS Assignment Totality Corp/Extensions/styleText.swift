@@ -2,7 +2,7 @@
 //  styleText.swift
 //  iOS Assignment Totality Corp
 //
-//  Created by Nishay Kumar on 15/08/23.
+//  
 //
 
 import Foundation
